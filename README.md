@@ -14,3 +14,9 @@ User Mode: Enables users to:
 The application uses images for backgrounds, handles database operations with feedback via message boxes, and ensures a user-friendly experience through organized window navigation and input validation.
 
 ![image](https://github.com/user-attachments/assets/4528f1ee-27d2-4131-ac51-680835580473)
+![image](https://github.com/user-attachments/assets/f535e2cf-a5f1-4b95-b0c0-2e5451d6323e)
+![image](https://github.com/user-attachments/assets/ccbcba30-44b5-46da-a801-7a737c1b7689)
+![image](https://github.com/user-attachments/assets/50a7d751-a0aa-4906-8f7c-5d19e7cc9c37)
+
+
+
